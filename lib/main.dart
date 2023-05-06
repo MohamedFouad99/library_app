@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get_navigation/get_navigation.dart';
 import 'package:library_app/constants.dart';
 
-import 'features/views/splash_view.dart';
+import 'features/splash/views/splash_view.dart';
 
 void main() {
   runApp(const MyApp());
